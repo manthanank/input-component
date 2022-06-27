@@ -1,0 +1,50 @@
+.row{
+    padding: 10px;
+}
+
+.input{
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+    margin-left: 10px;
+}
+.input:hover{
+    border: 1px solid #000;
+}
+.input:focus{
+    border: 1px solid rgb(4, 104, 255);
+}
+.input-disabled{
+    background-color: rgb(185, 185, 185);
+    border: 1px solid #ccc;
+    color: rgb(122, 122, 122);
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+h6{
+    color: rgb(114, 114, 114);
+}   
+.input-sm{
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+    margin-left: 10px;
+}
+.input-md{
+    height: 60px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 300px;
+    margin-left: 10px;
+}
+.input-fullWdidth{
+    height: 60px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+    margin-left: 10px;
+}
