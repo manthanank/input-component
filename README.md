@@ -39,7 +39,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/manthanank/button-component/blob/6d5b32816ac95678ff215ec1944b794185594c80/src/assets/images/screenshot.png)
+![screenshot](https://github.com/manthanank/input-component/blob/72d84f28f36ce2f6d40b1727934302298ec24c52/src/assets/images/screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
