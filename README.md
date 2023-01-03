@@ -79,7 +79,7 @@ $ git clone https://github.com/manthanank/input-component
 $ npm install
 
 # Run the app
-$ npm start
+$ ng serve
 ```
 
 ## Acknowledgements
